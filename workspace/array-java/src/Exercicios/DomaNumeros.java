@@ -9,9 +9,9 @@ public class DomaNumeros {
 		for ( int i = 0; i<=3; i++) {
 			double v = valor[i];
 			acumulador = acumulador + v;
-			
+			System.out.println(acumulador);	
 		}
-		System.out.println(acumulador);
+		
 }	
 
 }
