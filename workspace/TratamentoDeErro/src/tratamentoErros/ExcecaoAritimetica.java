@@ -1,6 +1,6 @@
 package tratamentoErros;
 
-public class ExecaoAritimetica {
+public class ExcecaoAritimetica {
 	public static void main(String[] args) {
 		try {
 		int a = 30, b = 0;
