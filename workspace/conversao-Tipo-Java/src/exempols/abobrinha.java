@@ -4,9 +4,10 @@ import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-public class GeradorDeAbobrinha {
-	public static void main(String[] args) {
-System.out.println("Escreve uma palavra aí, meu consagrado");
+public class abobrinha {
+public static void main(String[] args) {
+		
+		System.out.println("Escreve uma palavra aí, meu consagrado");
 		
 		int maxPalavrasUsuario = 5;
 		int maxPalavrasFrase = 8;
@@ -50,11 +51,6 @@ System.out.println("Escreve uma palavra aí, meu consagrado");
 		
 		System.out.println("Minha frase é: \n" + frase);
 	}
-
-
-		
-		
-		
-	}
+}
 
 
